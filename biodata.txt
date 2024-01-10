@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Website Saya | PROFILE</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body {
+      background-image: url('ikan.jpg');
+      background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: 100% 100%;
+
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Roboto", sans-serif
+    }
+
+    .video-background {
+      position: fixed;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      min-height: 100%;
+      z-index: -1;
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+    }
+  </style>
+</head>
+
+<body>
+  <?php include "menu.php"; ?>
+  <!-- Page Container -->
+  <div class="w3-content w3-margin-top mt-4" style="max-width:1400px;">
+
+    <!-- The Grid -->
+    <div class="w3-row-padding">
+
+      <!-- Left Column -->
+      <div class="w3-third">
+
+        <div class="w3-text-light-grey w3-card-4" style="background-color: rgba(255, 255, 255, 0.101);">
+          <div class="w3-display-container">
+            <img src="walp.jpg" style="width:100%" alt="Avatar">
+            <div class="w3-display-bottomleft w3-container w3-text-opacity">
+              <h2 class="text-light-grey">Profile</h2>
+            </div>
+          </div>
+          <div class="w3-container">
+            <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Web Development</p>
+            <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Padang Bulan , Medan</p>
+            <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>ryanrealfaridzi55@gmail.com</p>
+            <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+62-821-6183-2355</p>
+            <hr>
+
+            <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+            <p>HTML</p>
+            <div class="w3-light-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">89%</div>
+            </div>
+            <p>CSS</p>
+            <div class="w3-light-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:79.2%">
+                <div class="w3-center w3-text-light-grey">90%</div>
+              </div>
+            </div>
+            <p>JAVASCRIPT</p>
+            <div class="w3-light-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50.5%">45%</div>
+            </div>
+            <p>PHP</p>
+            <div class="w3-light-light-grey w3-round-xlarge w3-small">
+              <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:19.2%">33%</div>
+            </div>
+            <br>
+
+            <p class="w3-large w3-text-theme"><b><i
+                  class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+            <p>Indonesian</p>
+            <div class="w3-light-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-center w3-teal" style="height:24px;width:100%">100%</div>
+            </div>
+            <p>English</p>
+            <div class="w3-light-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-center w3-teal" style="height:24px;width:59.9%">77%</div>
+            </div>
+            <br>
+          </div>
+        </div><br>
+
+      </div>
+
+      <div class="w3-twothird">
+
+        <div class="w3-container w3-card w3-text-light-grey w3-margin-bottom"
+          style="background-color: rgba(255, 255, 255, 0.101);">
+          <h2 class="w3-text-light-grey w3-padding-16"><i
+              class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Pengembang Front-End di kelas XI RPL 3</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2013 - Dec 2018</h6>
+            <p>Sebagai pengembang front-end di kelas XI RPL 3, saya bertanggung jawab untuk mengembangkan antarmuka
+              pengguna (UI) untuk aplikasi web yang dihasilkan oleh kami dalam lingkungan pembelajaran. Dalam konteks
+              ini, saya adalah salah satu siswa yang memiliki peran dalam mengembangkan dan memelihara situs web atau
+              aplikasi kelas kami.
+
+              Tugas saya meliputi merancang tampilan, mengkodekan elemen-elemen front-end menggunakan HTML, CSS, dan
+              JavaScript, serta memastikan bahwa aplikasi web tersebut responsif dan sesuai dengan kebutuhan
+              pembelajaran. Saya bekerja sama dengan anggota tim pengembangan lainnya dalam mengintegrasikan desain
+              front-end dengan fungsionalitas yang dikembangkan oleh siswa lainnya dalam kelas.
+
+              Selama masa kerja ini, kami berhasil menciptakan aplikasi pembelajaran interaktif untuk materi yang kami
+              pelajari dalam program keahlian Rekayasa Perangkat Lunak (RPL). Saya juga belajar lebih banyak tentang
+              kolaborasi tim, pengembangan proyek bersama, dan penerapan desain UI yang baik dalam pengembangan
+              perangkat lunak.
+
+              Pengalaman ini mungkin lebih sesuai untuk menjelaskan pengalaman di lingkungan pendidikan, seperti dalam
+              sebuah kelas atau proyek sekolah yang melibatkan pengembangan perangkat lunak.</p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Youtuber Gaming Yang Bermain Minecraft (Chairawan Channel)</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Feb 2019 - Mei 2021</h6>
+            <p>Saya juga memiliki channel youtube gaming, yang memiliki 1.15rb Subscriber (saat ini). Saya mengisi channel saya dengan konten game Minecraft. saya senang bermain Minecraft dan berfikir untuk memulai berkarir di Youtube pada tahun 2019 lalu. dan saya bersyukur sampai saat ini saya memiliki subscriber yang terbilang lumayan banyak bagi saya. Saya juga sering belajar menggunakan video editor, design photo untuk channel youtube saya. Mungkin pengalaman ini membuat saya mudah untuk ber-public speaking (berbicara didepan umum). yang mana kemampuan Public Speaking sangat dibutuhkan di era modern ini.</p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>SMK NEGERI 9 MEDAN</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2022 - Mar 2023</h6>
+            <p>SMK NEGERI 9 MEDAN Adalah sekolah menegah kejuruan yang ditempuh oleh Muhammad Chairawan pada tahun 2022
+              - 2024</p><br>
+          </div>
+        </div>
+        <div class="w3-container w3-card w3-text-light-grey" style="background-color: rgba(255, 255, 255, 0.101);">
+          <h2 class="w3-text-light-grey w3-padding-16"><i
+              class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>W3Schools.com</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
+            <p>Tempat belajar awal coding untuk pemula</p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Dicoding.com</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
+            <p>Tempat lainnya untuk belajar coding</p>
+            <hr>
+          </div>
+          <div class="w3-container">
+            <h5 class="w3-opacity"><b>Youtube.com</b></h5>
+            <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
+            <p>Media pembelajaran saya untuk memahami struktur percodingan</p><br>
+          </div>
+        </div>
+
+        <!-- End Right Column -->
+      </div>
+
+      <!-- End Grid -->
+    </div>
+
+    <!-- End Page Container -->
+  </div>
+
+
+  <footer class="footer footer-expand-lg text-light"
+    style="padding: 20px; text-align: center; background-color: rgba(255, 255, 255, 0.101);">
+    COPYRIGHT
+  </footer>
+
+</body>
+
+</html>
